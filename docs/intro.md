@@ -5,9 +5,21 @@ slug: /
 
 
 # Introduction
----
 
-## What is $?
+### What is Dimension C-137? 
+ Dimension C-137 is a one of the many universes in the multiverse, this is the universe where 
+ the author of this DAO (Eye patch Morty) was born. There are many currencies used on the planet (Earth) where
+ "Eye patch morty" was born. Story to be continued ...
+### What is a DAO?
+
+### What is DeFi?
+
+### What is reserve currency?
+
+### But why? 
+
+
+
 #### From Siam Kidd:
 ---
 #### From The calculator Guy:

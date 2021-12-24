@@ -29,7 +29,10 @@
 }
 
 html[data-theme='dark'] {
-  --ifm-font-color-base: #93A6F5;
+  --ifm-font-color-base: #62a36a;
+  --ifm-link-color: #93A6F5;
+  --ifm-color-primary: #93A6F5;
+  --ifm-menu-color-active: #93A6F5;
   --ifm-code-background:#282a36 ;
   --ifm-code-color: #000000;
   --ifm-heading-color: #d4af37;
