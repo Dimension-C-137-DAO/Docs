@@ -8,11 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Dimension C-137',
   tagline: 'Universe is cool',
-  url: 'https://dimension-c-137-dao.github.io',
-  baseUrl: '/docs/',
+  url: 'https://dimension-c-137-dao.netlify.app',
+  baseUrl: '/Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'Dimension C-137 DAO', // Usually your GitHub org/user name.
+  organizationName: 'Dimension-C-137-DAO', // Usually your GitHub org/user name.
   projectName: 'Docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
