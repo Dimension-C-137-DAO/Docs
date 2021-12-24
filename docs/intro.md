@@ -8,7 +8,7 @@ slug: /
 
 ### What is Dimension C-137? 
  Dimension C-137 is a one of the many universes in the multiverse, this is the universe where 
- the author of this DAO (Eye patch Morty) was born. There are many currencies used on the planet (Earth) where
+ the author of this doc (Eye patch Morty) was born. There are many currencies used on the planet (Earth) where
  "Eye patch morty" was born. Story to be continued ...
 ### What is a DAO?
 
